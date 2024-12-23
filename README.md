@@ -20,7 +20,7 @@ This Python script selects a random winner from a list of names for a Pokémon C
 
 1. Clone the repository or download the script:
    ```bash
-   git clone https://github.com/your-username/pokemon-card-giveaway.git
+   git clone https://github.com/moturkmani/pokemon-card-giveaway.git
    cd pokemon-card-giveaway
    ```
 
@@ -68,10 +68,4 @@ pokemon-card-giveaway/
 - **Number of Winners**: Modify the script to select multiple winners if needed.
 - **Name Collection**: Adapt the input collection to accept names from a file or database.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contributions
-
-Feel free to submit issues or pull requests for additional features or improvements.
