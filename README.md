@@ -1,6 +1,6 @@
 # Pokémon Card Giveaway Winner Selector
 
-This Python script selects a random winner from a list of names for a Pokémon Card Giveaway. It includes a fun, interactive interface with ASCII art and a dramatic reveal of the winner.
+This Python script selects a random winner from a list of 10 names for a Pokémon Card Giveaway. It includes a fun, interactive interface with ASCII art and a dramatic reveal of the winner.
 
 ## Features
 
@@ -34,6 +34,7 @@ This Python script selects a random winner from a list of names for a Pokémon C
    - Input the names of the participants.
    - Watch the dramatic reveal of the winner!
    - Restart the giveaway or exit the program as desired.
+<img width="1337" height="1246" alt="image" src="https://github.com/user-attachments/assets/95781190-cdcb-4caa-9792-19b66df22ea6" />
 
 ### Example Usage
 
