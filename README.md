@@ -34,8 +34,8 @@ Enter your participants, sit back, and enjoy a suspense-filled ASCII-art reveal 
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/moturkmani/pokemon-card-giveaway.git
-   cd pokemon-card-giveaway
+   git clone https://github.com/moturkmani/Winner-Selector.git
+   cd Winner-Selector
    ```
 
 2. **Run it**
@@ -76,7 +76,7 @@ WINNER is... [press Enter]
 ## 🗂️ File Structure
 
 ```
-pokemon-card-giveaway/
+Winner-Selector/
 └── winner_selector.py   # 🧠 Main script for selecting a giveaway winner
 ```
 
