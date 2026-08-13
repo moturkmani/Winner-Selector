@@ -6,7 +6,7 @@
 
 Enter your participants, sit back, and enjoy a suspense-filled ASCII-art reveal of the lucky winner.
 
-<img width="1000" alt="Pokémon Card Giveaway Winner Selector" src="https://github.com/user-attachments/assets/95781190-cdcb-4caa-9792-19b66df22ea6" />
+<img width="400" alt="Pokémon Card Giveaway Winner Selector" src="https://github.com/user-attachments/assets/95781190-cdcb-4caa-9792-19b66df22ea6" />
 
 </div>
 
